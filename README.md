@@ -26,7 +26,7 @@ Team‑player • Open‑source enthusiast • Backend focus
 
 ## Connect with me
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img align="center" src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.flaticon.com/free-icon/linkedin_3536505)"/>
+  <img align="center" src="[[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.flaticon.com/free-icon/linkedin_3536505)](https://cdn-icons-png.flaticon.com/128/145/145807.png)"/>
 </a>
 
 ---
