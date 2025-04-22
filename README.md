@@ -38,10 +38,7 @@ Team‑player • Open‑source enthusiast • Backend focus
   <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://cdn-icons-png.flaticon.com/128/16845/16845814.png)"  width="40"/>
 
   
-  <img src="[[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)](https://cdn-icons-png.flaticon.com/128/15484/15484303.png)"  width="40"/>
-   <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)](https://cdn-icons-png.flaticon.com/128/226/226777.png)"  width="40"/>
-    <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/5968/5968322.png](https://cdn-icons-png.flaticon.com/128/16781/16781152.png))"  width="40"/>
-     <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)](https://cdn-icons-png.flaticon.com/128/16781/16781152.png)"  width="40"/>
+
   
 </p>
 
