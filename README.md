@@ -20,7 +20,7 @@ Team‑player • Open‑source enthusiast • Backend focus
 - Backend
 
 ### 💬 Ask me about
-`HTML`, `CSS`, `JS`, `node.js`, `java`, `SQL`, `mongoDB`, `` 
+`HTML`, `CSS`, `JS`, `node.js`, `java`, `SQL`, `mongoDB`
 
 ---
 
