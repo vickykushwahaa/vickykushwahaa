@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm VICKY KUSHWAHA</h1>
 
 <p align="center">
 I’m a passionate learner, always looking for new challenges.<br>
@@ -11,7 +11,7 @@ Team‑player • Open‑source enthusiast • Backend focus
 - Open‑source contributions
 
 ### 🌱 I’m currently learning
-- Java basics
+- Java advance(with DSA)
 
 ### 👯 I’m looking to collaborate on
 - **Focusquest**
@@ -20,24 +20,29 @@ Team‑player • Open‑source enthusiast • Backend focus
 - Backend
 
 ### 💬 Ask me about
-`HTML`, `CSS`, `JS`, `Python`
+`HTML`, `CSS`, `JS`, `node.js`, `java`, `SQL`, `mongoDB`, `` 
 
 ---
 
 ## Connect with me
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img align="center" src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.flaticon.com/free-icon/linkedin_3536505)"/>
 </a>
 
 ---
 
 ## Languages & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="40"/>
-  <!-- add more -->
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://www.flaticon.com/free-icon/html-5_174854)" width="40"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.flaticon.com/free-icon/css-3_732190)"  width="40"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://cdn-icons-png.flaticon.com/128/16845/16845814.png)"  width="40"/>
+
+  
+  <img src="[[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)](https://cdn-icons-png.flaticon.com/128/15484/15484303.png)"  width="40"/>
+   <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)](https://cdn-icons-png.flaticon.com/128/226/226777.png)"  width="40"/>
+    <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/5968/5968322.png](https://cdn-icons-png.flaticon.com/128/16781/16781152.png))"  width="40"/>
+     <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)](https://cdn-icons-png.flaticon.com/128/16781/16781152.png)"  width="40"/>
+  
 </p>
 
 ---
