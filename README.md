@@ -2,7 +2,9 @@
 <h3 align="center">Great to see you here!</h3>
 <hr>
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/vicky-kumar-kushwaha-9025872b6))
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vicky-kumar-kushwaha-9025872b6)
 [![Gmail](https://img.shields.io/badge/Gmail-DD4B39?logo=gmail)](mailto:vickykumarkusgwaha@gmail.com)
 <!-- [![Resume](https://img.shields.io/badge/Resume-pdf?logo=adobeacrobat)](link-to-your-resume.pdf)
  -->
