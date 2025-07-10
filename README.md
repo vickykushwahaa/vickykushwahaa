@@ -71,7 +71,7 @@ Team‑player • Open‑source enthusiast • Backend focus
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true)   -->
 
-<hr style="height:5px; backgroud-color:black;border:none"><br>
+<hr style="height:5px; backgroud-color:black;border:none">
 <div align="center">
 <h2 aline="center"><b> Take a look at my repositories and let's get in touch!</b></h2>
 </div>
