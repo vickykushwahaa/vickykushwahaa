@@ -2,10 +2,10 @@
 <h3 align="center">Great to see you here!</h3>
 <hr>
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]
-[![Gmail](https://img.shields.io/badge/Gmail-DD4B39?logo=gmail)](mailto:your.email@example.com)
-[![Resume](https://img.shields.io/badge/Resume-pdf?logo=adobeacrobat)](link-to-your-resume.pdf)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/vicky-kumar-kushwaha-9025872b6))
+[![Gmail](https://img.shields.io/badge/Gmail-DD4B39?logo=gmail)](mailto:vickykumarkusgwaha@gmail.com)
+<!-- [![Resume](https://img.shields.io/badge/Resume-pdf?logo=adobeacrobat)](link-to-your-resume.pdf)
+ -->
 <p align="center">
 I’m a passionate learner, always looking for new challenges.<br>
 Team‑player • Open‑source enthusiast • Backend focus
