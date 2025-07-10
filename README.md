@@ -72,10 +72,12 @@ Team‑player • Open‑source enthusiast • Backend focus
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true)   -->
 
 <hr style="height:5px; backgroud-color:black;border:none"><br>
+<div align="center">
 <h2 aline="center"><b> Take a look at my repositories and let's get in touch!</b></h2>
+</div>
 <div align="center">
 
-  <a href="https://github.com/vickykushwahaa">
+  <a href="https://github.com/vickykushwahaa?tab=repositories">
     <img src="https://img.shields.io/badge/Thanks_for_Visiting!-brightgreen.svg?style=for-the-badge&logo=github" alt="Thank You Badge">
   </a>
 
