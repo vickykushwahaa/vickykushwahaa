@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm VICKY KUSHWAHA</h1>
-<h3 align="center">Great to see you here!</h3>
+<h1 align="center">Hi 👋, I'm VICKY KUSHWAHA   <h3 align="center">Great to see you here!</h3>   </h1>
+
 <hr>
-## 📫 Connect with me  <br>
+📫 Connect with me  <br>
 
  &nbsp;  &nbsp;  &nbsp;  &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vicky-kumar-kushwaha-9025872b6)
  &nbsp;  &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-DD4B39?logo=gmail)](mailto:vickykumarkusgwaha@gmail.com)
@@ -62,11 +62,19 @@ Team‑player • Open‑source enthusiast • Backend focus
 
 </td>
 <td>
--->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&rank_icon=github)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true)   -->
+
+<hr><hr><hr><br>
+<p aline="center"><b> Take a look at my repositories and let's get in touch!<b></b></p>
+<div aline="center">
+ https://camo.githubusercontent.com/213cfd061261af65bb3448665428c308bd5e4aca2d1952cd4014189dce83022e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b2d596f752d6666363962342e737667
+</div>
+
+
