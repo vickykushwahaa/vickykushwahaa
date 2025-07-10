@@ -73,6 +73,12 @@ Team‑player • Open‑source enthusiast • Backend focus
 
 <hr style="height:5px; backgroud-color:black;border:none"><br>
 <h2 aline="center"><b> Take a look at my repositories and let's get in touch!</b></h2>
-[![Thank You](https://img.shields.io/badge/Thanks_for_Reading!-purple.svg?style=for-the-badge&logo=github)](https://github.com/vickykushwahaa)
+<div align="center">
+
+  <a href="https://github.com/vickykushwahaa">
+    <img src="https://img.shields.io/badge/Thanks_for_Visiting!-brightgreen.svg?style=for-the-badge&logo=github" alt="Thank You Badge">
+  </a>
+
+</div>
 
 
